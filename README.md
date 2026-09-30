@@ -1,5 +1,5 @@
 ```bash
-$ curl -s https://github.com/kuuruni.gpg | gpg --import
+$ curl -s https://github.com/imnotniwa.gpg | gpg --import
 ```
 
 # Weekly Report
