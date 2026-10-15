@@ -7,13 +7,12 @@ $ curl -s https://github.com/imnotniwa.gpg | gpg --import
 <!--START_SECTION:waka-->
 
 ```md
-From: 30 September 2026 - To: 07 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 6 hrs 48 mins
+Total Time: 6 hrs 19 mins
 
-TypeScript      1 hr 37 mins          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.84 %
-Markdown        1 hr 9 mins           ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.93 %
-Svelte          55 mins               ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.54 %
+Markdown        1 hr 5 mins           ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.14 %
+sh              56 mins               ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.97 %
 ```
 
 <!--END_SECTION:waka-->
